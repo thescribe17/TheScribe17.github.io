@@ -5,7 +5,7 @@ body, html {
 
 .bgimg {
   /* Background image */
-  background-image: url('img/IMG_3236.jpeg');
+  background-image: url('../img/IMG_3236.jpeg');
   /* Full-screen */
   height: 100%;
   /* Center the background image */
