@@ -1,5 +1,5 @@
-I'm currently learning ... 👋
-Please be kind.
+<p>I have no official training. I'm currently learning and experimenting on coding a website using HTML and CSS. 👋</p>
+<p>Please be kind. And if you can see an issue, it's possible I'm having trouble resolving the issue and need help. Feel free to offer the solution.</p>
 
 <!--
 **thescribe17/TheScribe17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
