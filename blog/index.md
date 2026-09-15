@@ -6,19 +6,21 @@ permalink: /blog/
 ---
 
 {% for post in paginator.posts %}
-  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <article class="blog-item">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 
-  {% if post.subtitle %}
-    <p class="blog-subtitle">{{ post.subtitle }}</p>
-  {% endif %}
+    {% if post.subtitle %}
+      <p class="blog-subtitle">{{ post.subtitle }}</p>
+    {% endif %}
 
-  <p class="blog-date">{{ post.date | date: "%-d %B %Y" }}</p>
+    <p class="blog-date">{{ post.date | date: "%-d %B %Y" }}</p>
 
-  <p class="blog-excerpt">
-    {{ post.excerpt | strip_html | truncate: 160 }}
-  </p>
+    <p class="blog-excerpt">
+      {{ post.excerpt | strip_html | truncate: 160 }}
+    </p>
 
-  <hr>
+    <hr>
+  </article>
 {% endfor %}
 
 <div class="pagination">
