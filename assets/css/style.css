@@ -133,6 +133,37 @@ td, th {
   background: #ddd;
 }
 
+/* Search Bar */
+#search-input {
+  width: 80%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 20px auto;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#search-results {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+  text-align: left;
+}
+
+#search-results li {
+  margin: 8px 0;
+}
+
+#search-results a {
+  text-decoration: none;
+  color: #003366;
+}
+
+#search-results a:hover {
+  text-decoration: underline;
+}
+
 /* FOOTER */
 .footer {
   background-color: #f2f2f2;
