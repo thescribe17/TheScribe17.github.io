@@ -1,0 +1,12 @@
+{% for tag in site.tags %}
+  {% capture tag_name %}{{ tag[0] }}{% endcapture %}
+  {% capture tag_path %}/tag/{{ tag_name }}{% endcapture %}
+
+  <a href="{{ tag_path | relative_url }}"></a>
+
+  ---
+  layout: tag
+  tag: {{ tag_name }}
+  permalink: {{ tag_path }}/
+  ---
+{% endfor %}
