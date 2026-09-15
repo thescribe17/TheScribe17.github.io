@@ -6,7 +6,7 @@ subtitle: Reading&nbsp;&bull;&nbsp;Writing&nbsp;&bull;&nbsp;Publishing&nbsp;&bul
 
 # Mind the paint
 
-I'm redecorating at the moment so content is missing or I'm having issues with coding. However, things will slower return to normal over coming weeks/months.
+I'm redecorating at the moment so content is missing or I'm having issues with coding. However, things will slowly improve and return to normal over coming weeks/months.
 
 # The Desk of Karen Lee Field
 
