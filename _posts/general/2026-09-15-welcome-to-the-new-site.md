@@ -2,6 +2,7 @@
 title: "Welcome to the New Website"
 date: 2026-09-15
 categories: [general]
+tags: [general, personal]
 ---
 
 After months of planning, organising, and rebuilding, my new website is finally live. I wanted a space that reflects my writing journey — clean, simple, and focused on the things I love most: storytelling, creativity, and connecting with readers.
