@@ -164,6 +164,26 @@ td, th {
   text-decoration: underline;
 }
 
+.blog-item {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+}
+
+.blog-subtitle {
+  color: #555;
+  margin: 0 0 10px 0;
+}
+
+.blog-date {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.blog-excerpt {
+  margin-top: 10px;
+}
+
 .pagination {
   margin-top: 40px;
   text-align: center;
