@@ -2,6 +2,7 @@
 layout: page
 title: For Writers
 subtitle: Writing and Publishing Tips and Resources
+permalink: /for-writers/
 ---
 
 ## Writing, Editing & Publishing

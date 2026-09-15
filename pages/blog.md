@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+permalink: /blog/
 ---
 
 {% for post in paginator.posts %}

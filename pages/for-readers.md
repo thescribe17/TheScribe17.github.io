@@ -1,6 +1,7 @@
 ---
 layout: page
 title: For Readers
+permalink: /for-readers/
 ---
 
 ## Author Interviews
