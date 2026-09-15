@@ -10,17 +10,15 @@ I'm redecorating at the moment so content is missing or I'm having issues with c
 
 # The Desk of Karen Lee Field
 
-Welcome to my author site — home to my fantasy adventures, middle‑grade mysteries, and the writing resources I share with readers and fellow writers.
+Welcome. This is where my stories live — fantasy adventures, middle‑grade mysteries, and the creative work that fills my writing life. Here you’ll find my books, my blog, and the resources I share with writers and readers alike.
 
-Explore:
+Explore the sections below:
 
-- **Blog** — updates and writing insights.
-- **My Books** — summaries and series information.
-- **For Writers** — resources and writing‑related posts.
-- **For Readers** — interviews and book reviews.
-- **Archives** — browse past posts.
-- **Contact** — get in touch.
+- **[Blog]({{ '/blog' | relative_url }})** — updates, writing insights, and news.
+- **[My Books]({{ '/books' | relative_url }})** — summaries, series information, and behind‑the‑scenes notes.
+- **[For Writers]({{ '/for-writers' | relative_url }})** — practical links and writing‑related posts.
+- **[For Readers]({{ '/for-readers' | relative_url }})** — author interviews and book reviews.
+- **[Archives]({{ '/archives' | relative_url }})** — browse past posts by year.
+- **[Contact]({{ '/contact' | relative_url }})** — get in touch.
 
-Thanks for visiting.
- 
-
+Thank you for visiting. I hope you enjoy your time at the desk.
