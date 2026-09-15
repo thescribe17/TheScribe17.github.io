@@ -1,0 +1,23 @@
+title: "The Desk of Karen Lee Field"
+description: "Author of fantasy adventure and middle-grade mystery fiction."
+baseurl: "/myblog"
+url: "https://jd31122025-design.github.io"
+
+markdown: kramdown
+theme: null
+
+collections:
+  books:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+paginate: 10
+paginate_path: "/blog/page:num"
+
+permalink: /:categories/:title
