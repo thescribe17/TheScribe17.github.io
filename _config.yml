@@ -1,7 +1,7 @@
 title: "The Desk of Karen Lee Field"
 description: "Author of fantasy adventure and middle-grade mystery fiction."
-baseurl: "/myblog"
-url: "https://jd31122025-design.github.io"
+baseurl: ""
+url: "https://www.karenleefield.com"
 
 markdown: kramdown
 theme: null
