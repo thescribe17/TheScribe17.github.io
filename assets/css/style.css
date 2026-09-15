@@ -2,6 +2,16 @@ body {
   font-family: "Open Sans", sans-serif;
   margin: 0;
   padding: 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Global content width */
+.content {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 /* Page Header (title + subtitle) */
@@ -40,7 +50,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap; /* allows wrapping on small screens */
+  flex-wrap: wrap;
 }
 
 .nav-left a {
@@ -82,10 +92,6 @@ body {
 }
 
 /* GENERAL MOBILE STYLES */
-.content {
-  padding: 20px;
-}
-
 img {
   max-width: 100%;
   height: auto;
@@ -164,6 +170,7 @@ td, th {
   text-decoration: underline;
 }
 
+/* Blog */
 .blog-item {
   margin-bottom: 40px;
   padding-bottom: 20px;
